@@ -1,0 +1,25 @@
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\Neurosky Signal Aquisition.exe.config
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\Neurosky Signal Aquisition.exe
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\Neurosky Signal Aquisition.pdb
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\IronXL.dll
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\Jayrock.dll
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\Jayrock.Json.dll
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\IronXL.xml
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.csproj.AssemblyReference.cache
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.csproj.CoreCompileInputs.cache
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.csproj.CopyComplete
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.exe
+D:\CS Term 8\Grad Submission\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.pdb
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\Neurosky Signal Aquisition.exe.config
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\Neurosky Signal Aquisition.exe
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\Neurosky Signal Aquisition.pdb
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\IronXL.dll
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\Jayrock.dll
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\Jayrock.Json.dll
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\bin\Debug\IronXL.xml
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.csproj.AssemblyReference.cache
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.csproj.CoreCompileInputs.cache
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.csproj.CopyComplete
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.exe
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.pdb
+E:\Work\MSA\Graduation Project\brain signals\Neurosky Signal Aquisition\Neurosky Signal Aquisition\obj\Debug\Neurosky Signal Aquisition.csproj.SuggestedBindingRedirects.cache

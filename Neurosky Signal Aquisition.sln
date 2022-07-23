@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neurosky Signal Aquisition", "Neurosky Signal Aquisition\Neurosky Signal Aquisition.csproj", "{5441604F-08CE-4826-8033-A4E9C7AD1080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5441604F-08CE-4826-8033-A4E9C7AD1080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5441604F-08CE-4826-8033-A4E9C7AD1080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5441604F-08CE-4826-8033-A4E9C7AD1080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5441604F-08CE-4826-8033-A4E9C7AD1080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5185EF9-FEE6-40BB-B7E4-8D50186BE25C}
+	EndGlobalSection
+EndGlobal
